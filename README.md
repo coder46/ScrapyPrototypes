@@ -1,4 +1,4 @@
 ScrapyPrototypes
 ================
 
-Some prototypes for "Support For Other Languages " Project
+Some prototypes for "Support For Other Languages " GSOC Project
